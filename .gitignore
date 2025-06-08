@@ -24,3 +24,6 @@ __pycache__
 *.zip
 *.g
 *.bak
+*.dat
+*.dir
+

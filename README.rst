@@ -34,6 +34,7 @@ The GAP computer algebra system is also required.
 For installing GAP we refer to:
 
 https://www.gap-system.org/install/
+
 https://www.math.rwth-aachen.de/~Frank.Luebeck/GAPrsync/index.html
 
 
