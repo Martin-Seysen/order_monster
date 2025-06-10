@@ -1,6 +1,6 @@
 This repository contains the accompanying python code for the paper
 
- "The Order of the Monster Finite Simple Group"
+**The Order of the Monster Finite Simple Group**
 
 by Gerald Hoehn and Martin Seysen.
 
@@ -42,7 +42,7 @@ Quick installation and test
 ---------------------------
 
 After installing the required external packages you may simply
-clone this repo to you local computer and run:
+clone this repo to your local computer and run:
 
 .. code-block::
 
