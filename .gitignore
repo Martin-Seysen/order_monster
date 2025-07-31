@@ -7,6 +7,8 @@ axis_orbits/baby_axis/*.txt
 axis_orbits/backup/
 axis_orbits/zipme.py
 axis_orbits/temp/
+axis_orbits/certificates/axis_certificate.txt
+axis_orbits/certificates/baby_axis_certificate.txt
 temp/
 __pycache__/
 __pycache__
