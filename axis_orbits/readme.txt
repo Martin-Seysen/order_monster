@@ -1,6 +1,6 @@
 Introduction
 ============
-This is the accompanying python code for the paper
+This is the accompanying Python code for the paper
 "The Order of the Monster Finite Simple Group"
 by Gerald Hoehn and Martin Seysen.
 
@@ -38,9 +38,9 @@ In a Windows system the string "python3" should be replaced by "python".
 Apart from these options, the following options are available:
 
  -h, --help          Show a help message containing all possible options
- --show-Gx0-orders   Display orders of centralizers of G_x0 orbits of axes
- --show-Nx0-orbits   Display N_x0 orbits of axes, their sizes and G_x0 orbits
- --show-Nxyz-orbits  Display Decomposition of N_x0 orbits into N_xyz orbits
+ --show-Gx0-orders   Display orders of centralizers of G_x0-orbits on axes
+ --show-Nx0-orbits   Display N_x0-orbits on axes, their sizes and G_x0-orbits
+ --show-Nxyz-orbits  Display Decomposition of N_x0-orbits into N_xyz-orbits
  -t                  Display data in format suitable for LaTex (if supported)
  -r                  When the script is called for the first time it computes
                      large internal tables to speed up subsequent calls.
@@ -86,13 +86,13 @@ involutions_G_x0.py:
 
 orbit_classes.py:
 
-   In Table 1 in the paper the orbits of G_x0 on the axes are
+   In Table 1 in the paper the G_x0-orbits on the axes are
    labeled by the name of the class of an element t * x in the
    Monster, where x is the central Involution in G_x0, and t is
    a 2A involution corresponding to any axis in that orbit.
    These names are given in ATLAS notation.
 
-   A transversal V of the orbits of G_x0 on the axes is computed
+   A transversal V of the G_x0-orbits on the axes is computed
    with mmgroup. Let A be the list of the elements t * x, where
    x runs through the involutions corresponding to the axes in V.
    The script computes the characters of the entries of A in the
