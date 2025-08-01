@@ -1,4 +1,4 @@
-This repository contains the accompanying python code for the paper
+This repository contains the accompanying Python code for the paper
 
 **The Order of the Monster Finite Simple Group**
 
@@ -9,12 +9,12 @@ Requirements
 ------------
 
 
-The python code can be executed on a 64-bit Linux, Windows, or macOS
-system with python 3.8 or higher.
+The Python code can be executed on a 64-bit Linux, Windows, or macOS
+system with Python 3.8 or higher.
 
 The following external software packages are required.
 
-The python packages numpy, sympy, and mmgroup are required.
+The Python packages numpy, sympy, and mmgroup are required.
 The standard way to install these packages is:
 
 .. code-block::
