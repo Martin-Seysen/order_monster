@@ -2,7 +2,7 @@ This repository contains the accompanying Python code for the paper
 
 **The Order of the Monster Finite Simple Group**
 
-by Gerald Hoehn and Martin Seysen.
+by Gerald H&ouml;hn and Martin Seysen.
 
 
 Requirements
