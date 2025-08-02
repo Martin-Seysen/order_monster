@@ -1,8 +1,10 @@
+.. coding: utf-8
+
 This repository contains the accompanying Python code for the paper
 
 **The Order of the Monster Finite Simple Group**
 
-by Gerald H&ouml;hn and Martin Seysen.
+by Gerald Höhn and Martin Seysen.
 
 
 Requirements
